@@ -57,19 +57,6 @@ Database: SQLite
 
 Scripting: JavaScript for dynamic content display and interactions
 
-Folder Structure
-
-project-folder/
-├── index.html                 # Main dashboard page
-├── add-student.html           # Page to add student details
-├── mark-attendance.html       # Page to mark attendance
-├── manage-students.html       # Page to manage student records
-├── generate-report.html       # Page to generate reports
-├── assets/
-│   ├── css/                   # Custom CSS files
-│   └── js/                    # JavaScript files
-└── database/
-    └── attendance.db          # SQLite database file
 
 How to Run the Project
 
